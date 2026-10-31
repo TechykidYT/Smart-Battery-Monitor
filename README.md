@@ -4,4 +4,4 @@ The Smart Battery Monitor was created to PROTECT your battery when it's at 100%.
 
 If you decide to change this code and Re-Upload this, GIVE CREDITS.
 
-Thanks and hopefully this is useful!
+Thanks and hopefully this is useful to others!
